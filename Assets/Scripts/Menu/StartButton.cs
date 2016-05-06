@@ -10,11 +10,16 @@ public class StartButton : MonoBehaviour {
 	// Use this for initialization
 
 	void Start () {
-		GetComponent<Button> ().onClick.AddListener (() => goChooser ());
+		
 	
 	}
+    public void enableClick()
+    {
+        GetComponent<Button>().onClick.AddListener(() => goChooser());
+    }
 	void goChooser(){
-		SceneManager.LoadScene (Global.PLAYER_SELECTION);
+        GetComponent<Button>().onClick.RemoveAllListeners();
+        SceneManager.LoadScene (Global.PLAYER_SELECTION);
 	}
 	
 	// Update is called once per frame

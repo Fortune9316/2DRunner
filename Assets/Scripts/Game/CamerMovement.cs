@@ -8,7 +8,15 @@ public class CamerMovement : MonoBehaviour {
     float distancetoMove;
     bool isCreated;
     string current;
+    public bool isMoving;
+    public static CamerMovement instance;
+
+    void Awake()
+    {
+        instance = this;
+    }
 	void Start () {
+        isMoving = true;
         current = PlayerPrefs.GetString("color", "green");
         
 	}
@@ -16,7 +24,7 @@ public class CamerMovement : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         
-
+        if(isMoving)
         if(!isCreated)
         {
             player = GameObject.Find(current).GetComponent<Player>();

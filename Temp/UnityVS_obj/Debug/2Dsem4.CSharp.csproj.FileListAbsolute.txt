@@ -1,0 +1,14 @@
+C:\Users\Alumno-J\Desktop\2Dsem4\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Alumno-J\Desktop\2Dsem4\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Alumno-J\Desktop\2Dsem4\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Alumno-J\Desktop\2Dsem4\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Alumno-J\Desktop\2Dsem4\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\Alumno-J\Desktop\2Dsem4\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Alumno-J\Desktop\2Dsem4\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Alumno-J\Desktop\2Dsem4\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Alumno-J\Desktop\2Dsem4\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Alumno-J\Desktop\2Dsem4\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\Alumno-J\Desktop\2Dsem4\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Alumno-J\Desktop\2Dsem4\Temp\UnityVS_obj\Debug\2Dsem4.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Alumno-J\Desktop\2Dsem4\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+C:\Users\Alumno-J\Desktop\2Dsem4\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb

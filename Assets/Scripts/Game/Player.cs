@@ -64,7 +64,9 @@ public class Player : MonoBehaviour
     {
         if(col.gameObject.tag == "vacio")
         {
+            CamerMovement.instance.isMoving = false;
             Destroy(gameObject);
+            GameOverPanel.instance.show();
         }
     }
 }
